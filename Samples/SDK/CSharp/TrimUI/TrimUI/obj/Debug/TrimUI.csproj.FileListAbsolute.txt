@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\bin\Debug\TestWPF.exe.config
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\bin\Debug\TestWPF.exe
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\bin\Debug\TestWPF.pdb
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\bin\Debug\HP.HPTRIM.SDK.dll
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\TrimUI.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\TestWPF_MarkupCompile.cache
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\TestWPF.g.resources
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\TestWPF.Properties.Resources.resources
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\TrimUI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\TrimUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\TrimUI.csproj.CopyComplete
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\TestWPF.exe
+C:\Users\admin\Desktop\siddharth\Community\Samples\SDK\CSharp\TrimUI\TrimUI\obj\Debug\TestWPF.pdb
